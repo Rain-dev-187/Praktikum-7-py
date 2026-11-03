@@ -1,0 +1,31 @@
+# Konfigurasi pre-commit hooks - Soal Praktik 6
+#
+# Cara pakai (satu kali setelah file ini ada di root repository):
+#     pip install pre-commit
+#     pre-commit install
+#
+# Setelah itu, setiap `git commit` akan menjalankan ketiga hooks di
+# bawah secara otomatis. Commit DIBATALKAN jika ada hook yang gagal
+# atau mengubah file, sehingga kode yang tidak memenuhi standar
+# tidak bisa masuk ke repository sebelum diperbaiki.
+repos:
+  - repo: https://github.com/pycqa/isort
+    rev: 9.0.2
+    hooks:
+      - id: isort
+        name: isort (urutkan import)
+        args: [--profile=black, --line-length=79]
+
+  - repo: https://github.com/psf/black
+    rev: 26.10.1
+    hooks:
+      - id: black
+        name: black (auto-format kode)
+        args: [--line-length=79]
+
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.5.0
+    hooks:
+      - id: flake8
+        name: flake8 (linting PEP 8 + error logika)
+        args: [--max-line-length=79]

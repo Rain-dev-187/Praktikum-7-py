@@ -1,0 +1,6 @@
+2026-11-03 09:55:59 | si_akademik | DEBUG    | Query SQL: SELECT * FROM mahasiswa WHERE nim=2024132001
+2026-11-03 09:55:59 | si_akademik | INFO     | User admin berhasil login dari 192.168.1.10
+2026-11-03 09:55:59 | si_akademik | INFO     | Pendaftaran mahasiswa baru berhasil: NIM 2024132009
+2026-11-03 09:55:59 | si_akademik | WARNING  | Penggunaan disk server mencapai 85%
+2026-11-03 09:55:59 | si_akademik | ERROR    | Gagal mengirim notifikasi email ke dosen@univ.ac.id
+2026-11-03 09:55:59 | si_akademik | CRITICAL | Koneksi database utama terputus!
