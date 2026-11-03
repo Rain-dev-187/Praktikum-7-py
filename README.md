@@ -2,9 +2,9 @@
 
 ## Exception Handling, Debugging, Logging, Unit Testing, Clean Code, dan Code Review
 
-- **Nama:** [ISI NAMA]
-- **NIM:** [ISI NIM]
-- **Kelas:** [ISI KELAS]
+- **Nama:** Ahmad Sahrul F 
+- **NIM:** 20241320031
+- **Kelas:** A1
 - **Mata Kuliah:** Pemrograman Python
 - **Program Studi:** Sistem Informasi
 
@@ -331,19 +331,21 @@ tersimpan sebagai `soal_6_contoh_bersih.py`.
 # Bukti Hasil Run
 
 ## Soal Praktik 1
-![Bukti Soal 1](bukti_praktikum_soal1.png)
+   <img width="1120" height="752" alt="bukti_praktikum_soal1" src="https://github.com/user-attachments/assets/7fe6f240-73e8-4f56-b9bb-f0b1a94d3d82" />
+
 
 ## Soal Praktik 2
-![Bukti Soal 2](bukti_praktikum_soal2.png)
+<img width="1120" height="584" alt="bukti_praktikum_soal2" src="https://github.com/user-attachments/assets/3f26521f-94fb-4de3-be69-992b879e9dd1" />
 
 ## Soal Praktik 3
-![Bukti Soal 3](bukti_praktikum_soal3.png)
+<img width="1120" height="608" alt="bukti_praktikum_soal3" src="https://github.com/user-attachments/assets/b119177d-5dd8-4057-883f-9b2180303d5a" />
+
 
 ## Soal Praktik 4
-![Bukti Soal 4](bukti_praktikum_soal4.png)
+<img width="1120" height="680" alt="bukti_praktikum_soal4" src="https://github.com/user-attachments/assets/13991a1e-a57f-433c-aad9-ba4a2c314edd" />
 
 ## Soal Praktik 5
-![Bukti Soal 5](bukti_praktikum_soal5.png)
+<img width="1120" height="968" alt="bukti_praktikum_soal5" src="https://github.com/user-attachments/assets/50951ad9-acff-412a-859f-e362393a60af" />
 
 ## Soal Praktik 6
-![Bukti Soal 6](bukti_praktikum_soal6.png)
+<img width="1120" height="608" alt="bukti_praktikum_soal6" src="https://github.com/user-attachments/assets/e0c929a2-022e-46aa-84ff-1c94cb3ed7bc" />
